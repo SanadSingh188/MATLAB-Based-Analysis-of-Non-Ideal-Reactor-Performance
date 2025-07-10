@@ -1,0 +1,30 @@
+_______________________________________________________________________________________
+SAMPLE DATASET FOR MAXIMUM MIXEDNESS MODEL AND SEGREGATION MODEL
+
+C_t = [0 1.4 5 8 10 8 6 4 3 2.2 1.5 0.6 0]  UNIT : g/(m^3)
+T = [0 1 2 3 4 5 6 7 8 9 10 12 14]          UNIT : min
+n = 1 
+k = 0.1                                     UNIT : min^(-1)
+Ca0 = 10                                    UNIT : mol/litre
+
+________________________________________________________________________________________
+SAMPLE DATASET FOR DISPERSION MODEL, TANKS IN SERIES MODEL, IDEAL PFR AND IDEAL CSTR
+
+C_t = [0 1 5 8 10 8 6 4 3 2.2 1.5 0.6 0]    UNIT : mg/Litre
+T = [0 1 2 3 4 5 6 7 8 9 10 12 14]          UNIT : min
+n = 1
+k = 0.25                                    UNIT : min^(-1)
+Ca0 = 10                                    UNIT : mol/litre
+
+_________________________________________________________________________________________
+SAMPLE DATASET FOR BYPASSING AND DEAD SPACE MODEL
+
+C_t = [1000 1333 1500 1666 1750 1800]       UNIT : mg/Litre     
+T = [4 8 10 14 16 18]                       UNIT : min
+n = 2
+k = 0.28                                    UNIT : (m^3)/(kmol.min)
+Ca0 = 2                                     UNIT : (kmol/(m^3))
+V = 1                                       UNIT : m^3
+vo = 0.1                                    UNIT : (m^3)/(min)
+Ct0 = 2000                                  UNIT : mg/litre
+_________________________________________________________________________________________
