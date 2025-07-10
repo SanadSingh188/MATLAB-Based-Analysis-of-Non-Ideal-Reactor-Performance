@@ -1,6 +1,6 @@
 # Predicting Conversion in Non-Ideal Reactors Using Various Models
 
-%% Summary
+## Summary
 
 This MATLAB-based tool predicts the conversion of a single reaction occurring in a non-ideal reactor. The user provides tracer concentration vs. time data and kinetic data (initial concentration, rate constant, and reaction order). Based on this, the tool simulates reactor performance using various models.
 
@@ -17,7 +17,7 @@ To aid in comparison:
 
 
 
-%% Features
+## Features
 
 - Five models to simulate non-ideal behavior:
   - Segregation Model
@@ -31,7 +31,7 @@ To aid in comparison:
   - Tracer data
   - Kinetic parameters (C₀, k, reaction order)
 
-%% Installation
+## Installation
 
 No special installation needed.
 
@@ -39,7 +39,7 @@ No special installation needed.
 2. Place all scripts and function files in a single folder.
 3. Open MATLAB and run the main script.
 
-%% How to Use
+## How to Use
 
 - Follow prompts in the command window.
 - For vector inputs (like tracer data), use square brackets:  
@@ -47,36 +47,36 @@ No special installation needed.
 
 A sample screenshot is provided in the repository for reference.
 
-%% Limitations
+## Limitations
 
 - Only supports single reactions with orders 0, 1, or 2.
 - Dispersion Model is limited to 1st order reactions only.
 - No GUI – interaction is via command line.
 
-%% Assumptions
+## Assumptions
 
 - Isothermal reactor operation  
 - Incompressible, constant-density fluids  
 - Steady-state flow  
 - No chemical reaction in tracer experiments
 
-%% Credits
+## Credits
 
 All mathematical formulations and reactor modeling approaches are derived from:
 
 Elements of Chemical Reaction Engineering FIFTH EDITION by H. Scott Fogler
 
-%% How to Cite
+## How to Cite
 
 This project is currently not published in a formal repository or journal. You may cite it as:
 
 Sanad Singh, “Predicting Conversion in Non-Ideal Reactors Using MATLAB,” 2025. GitHub repository (link to be added).
 
-%% License
+## License
 
 This project is released under the MIT License.
 
-%% Author
+## Author
 
 Sanad Singh  
 Chemical Engineering Undergraduate
