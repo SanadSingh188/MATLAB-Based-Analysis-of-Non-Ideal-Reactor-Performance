@@ -79,6 +79,5 @@ This project is released under the MIT License.
 ## Author
 
 Sanad Singh  
-Chemical Engineering Undergraduate
-NIT Warangal  
-India
+Chemical Engineering Undergraduate, NIT Warangal (India)  
+[LinkedIn](https://www.linkedin.com/in/your-profile-url)
