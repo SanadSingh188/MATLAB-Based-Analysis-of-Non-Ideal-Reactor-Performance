@@ -68,9 +68,9 @@ Elements of Chemical Reaction Engineering FIFTH EDITION by H. Scott Fogler
 
 ## How to Cite
 
-This project is currently not published in a formal repository or journal. You may cite it as:
+This project is not published in a peer-reviewed journal but is available on GitHub. You may cite it as:
 
-Sanad Singh, “Predicting Conversion in Non-Ideal Reactors Using MATLAB,” 2025. GitHub repository (link to be added).
+Sanad Singh, Predicting Conversion in Non-Ideal Reactors Using MATLAB, GitHub repository, 2025. [Online]. Available: https://github.com/SanadSingh188/MATLAB-Based-Analysis-of-Non-Ideal-Reactor-Performance
 
 ## License
 
