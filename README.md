@@ -80,4 +80,4 @@ This project is released under the MIT License.
 
 Sanad Singh  
 Chemical Engineering Undergraduate, NIT Warangal (India)  
-[LinkedIn](https://www.linkedin.com/in/your-profile-url)
+[LinkedIn](https://www.linkedin.com/in/sanad-singh-818aab1ba/)
