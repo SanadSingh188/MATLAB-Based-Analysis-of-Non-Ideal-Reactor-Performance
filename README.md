@@ -7,7 +7,7 @@ This MATLAB-based tool predicts the conversion of a single reaction occurring in
 But which model should be used?
 
 - Segregation Model and Maximum Mixedness Model are suitable for macrofluid systems.
-- Tanks-in-Series Model is applicable to any non-ideal reactor. A higher number of tanks (n) suggests a lower degree of backmixing, while a higher n indicates reduced backmixing.
+- Tanks-in-Series Model is applicable to any non-ideal reactor. A higher number of tanks (n) suggests a lower degree of backmixing, while a lower n indicates higher backmixing.
 - Dispersion Model captures the effect of axial dispersion in tubular reactors and highlights deviations from ideal plug flow behavior.
 - Two Adjustable Parameter Model addresses the impact of non-ideal flow patterns (dead zones or fluid bypassing) in CSTRs.
 
